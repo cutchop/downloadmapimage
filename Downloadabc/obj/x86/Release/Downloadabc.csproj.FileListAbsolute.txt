@@ -1,0 +1,5 @@
+D:\wukai\DownloadMapImage\Downloadabc\obj\x86\Release\ResolveAssemblyReference.cache
+D:\wukai\DownloadMapImage\Downloadabc\bin\Release\Downloadabc.exe
+D:\wukai\DownloadMapImage\Downloadabc\bin\Release\Downloadabc.pdb
+D:\wukai\DownloadMapImage\Downloadabc\obj\x86\Release\Downloadabc.exe
+D:\wukai\DownloadMapImage\Downloadabc\obj\x86\Release\Downloadabc.pdb

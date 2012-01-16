@@ -1,0 +1,5 @@
+D:\wukai\DownloadMapImage\DownloadMapImage\bin\Debug\DownloadMapImage.exe
+D:\wukai\DownloadMapImage\DownloadMapImage\bin\Debug\DownloadMapImage.pdb
+D:\wukai\DownloadMapImage\DownloadMapImage\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wukai\DownloadMapImage\DownloadMapImage\obj\x86\Debug\DownloadMapImage.exe
+D:\wukai\DownloadMapImage\DownloadMapImage\obj\x86\Debug\DownloadMapImage.pdb

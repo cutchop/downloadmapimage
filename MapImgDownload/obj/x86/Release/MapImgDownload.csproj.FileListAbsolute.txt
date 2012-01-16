@@ -1,0 +1,9 @@
+D:\wukai\DownloadMapImage\MapImgDownload\obj\x86\Release\ResolveAssemblyReference.cache
+D:\wukai\DownloadMapImage\MapImgDownload\obj\x86\Release\MainWindow.baml
+D:\wukai\DownloadMapImage\MapImgDownload\obj\x86\Release\MainWindow.g.cs
+D:\wukai\DownloadMapImage\MapImgDownload\obj\x86\Release\App.g.cs
+D:\wukai\DownloadMapImage\MapImgDownload\obj\x86\Release\MapImgDownload_MarkupCompile.cache
+D:\wukai\DownloadMapImage\MapImgDownload\obj\x86\Release\MapImgDownload.g.resources
+D:\wukai\DownloadMapImage\MapImgDownload\obj\x86\Release\MapImgDownload.Properties.Resources.resources
+D:\wukai\DownloadMapImage\MapImgDownload\obj\x86\Release\GenerateResource.read.1.tlog
+D:\wukai\DownloadMapImage\MapImgDownload\obj\x86\Release\GenerateResource.write.1.tlog
